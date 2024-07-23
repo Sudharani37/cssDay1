@@ -1,0 +1,29 @@
+#kuna{
+    color:blue;
+    background-color:azure;
+}
+.sud{
+    color:deeppink;
+    background-color:cornsilk;
+}
+span{
+    color:darkgreen;
+    background-color:azure
+}
+a{
+    color:brown;
+    background-color:beige
+}
+h3{
+    color:blueviolet;
+}
+#cse,#inter,#school,#pro{
+                          color:red;
+                          background-color:beige;
+                         }
+.ma,.mar,.mark{
+               color:chartreuse;
+               }
+*{
+    color:blue;
+}
